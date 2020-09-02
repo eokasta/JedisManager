@@ -1,1 +1,3 @@
-# Teste Jedis Redis
+# JedisManager
+
+Developed by Lucas Monteiro and Pedro Aguiar
